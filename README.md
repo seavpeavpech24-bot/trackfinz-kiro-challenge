@@ -237,7 +237,7 @@ app/src/main/java/com/trackfinz/app/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/TrackFinz.git
+   git clone https://github.com/seavpeavpech24-bot/trackfinz-kiro-challenge.git
    cd TrackFinz
    ```
 
