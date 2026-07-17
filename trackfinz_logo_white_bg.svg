@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 108 108">
+  <!-- White background version -->
+  <rect width="108" height="108" fill="#FFFFFF"/>
+  
+  <!-- Coin circle with gradient -->
+  <defs>
+    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00BFA5;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00838F;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <path fill="url(#grad2)" d="M54,18 C34.12,18 18,34.12 18,54 C18,73.88 34.12,90 54,90 C73.88,90 90,73.88 90,54 C90,34.12 73.88,18 54,18 Z M54,82 C38.54,82 26,69.46 26,54 C26,38.54 38.54,26 54,26 C69.46,26 82,38.54 82,54 C82,69.46 69.46,82 54,82 Z"/>
+  
+  <!-- Dollar sign -->
+  <path fill="#FFFFFF" d="M57,40 L57,37 L51,37 L51,40 C46.58,41.16 43,44.68 43,49 C43,54.52 48.48,57 54,58.5 C59.52,60 63,61.48 63,64 C63,66.76 60.76,69 58,69 L50,69 C47.24,69 45,66.76 45,64 L39,64 C39,69.52 43.48,74 49,75 L49,78 L55,78 L55,75 C60.52,74 65,69.52 65,64 C65,58.48 59.52,56 54,54.5 C48.48,53 45,51.52 45,49 C45,46.24 47.24,44 50,44 L58,44 C60.76,44 63,46.24 63,49 L69,49 C69,43.48 64.52,39 59,38 L59,37 L57,37 Z"/>
+</svg>

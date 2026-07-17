@@ -1,0 +1,67 @@
+# ============================================================
+# Android / Gradle build outputs
+# ============================================================
+*.iml
+.gradle/
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+/.idea/deploymentTargetSelector.xml
+/.idea/runConfigurations.xml
+.DS_Store
+/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# App build output
+app/build/
+
+# Kotlin build cache
+.kotlin/
+
+# ProGuard
+proguard/
+
+# Keystore files — NEVER commit signing keys
+*.jks
+*.keystore
+
+# ============================================================
+# Local configuration — machine-specific, contains SDK path
+# ============================================================
+local.properties
+
+# ============================================================
+# IntelliJ / Android Studio project files
+# (keep the useful ones: .idea/gradle.xml, misc.xml, etc.)
+# ============================================================
+.idea/workspace.xml
+.idea/caches/
+.idea/deploymentTargetSelector.xml
+.idea/runConfigurations.xml
+.idea/migrations.xml
+
+# ============================================================
+# OS-generated files
+# ============================================================
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# ============================================================
+# Logs
+# ============================================================
+*.log
